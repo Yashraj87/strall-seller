@@ -1,0 +1,16 @@
+.form{
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+.heading{
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button{
+    height: 30px;
+    width: 50px;
+    padding-left: 600px;
+}

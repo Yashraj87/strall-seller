@@ -1,0 +1,25 @@
+.form{
+   align-items: center;
+
+}
+
+.heading{
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button{
+    height: 30px;
+    width: 5%;
+    padding-left: 600px;
+}
+
+.entries{
+    padding: 10%;
+
+    
+}
+
+.form_layout{
+    text-align: center;
+}
